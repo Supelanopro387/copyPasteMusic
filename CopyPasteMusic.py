@@ -2,8 +2,9 @@ import os
 from shutil import copyfile
 
 # Configuración inicial
-m3u_file = r"C:\Users\nicop\Videos\Music\W0RK1N6.m3u"  # Actualiza con tu ruta
-destino = r"C:\Users\nicop\Downloads\Music"          # Actualiza con la ruta donde quieres copiar las canciones"
+m3u_file = r"C:\Users\nicop\Videos\Music\W0RK1N6.m3u" # Actualiza con tu ruta
+destino = r"C:\Users\nicop\Downloads\Music" # C:\Users\nicop\Videos\Rutes-Music\KL3T0$
+# destino = r"C:\Users\nicop\Downloads\Music"
 
 # Lista para archivos no encontrados
 no_encontrados = []
