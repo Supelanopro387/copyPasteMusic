@@ -2,7 +2,7 @@ import os
 from shutil import copyfile
 
 # Configuración inicial
-m3u_file = r"C:\Users\nicop\Videos\Music\T3CHN0.m3u" # Actualiza con tu ruta
+m3u_file = r"C:\Users\nicop\Videos\Music\W0RK1N6.m3u" # Actualiza con tu ruta
 destino = r"C:\Users\nicop\Downloads\Music" # C:\Users\nicop\Videos\Rutes-Music\KL3T0$
 # destino = r"C:\Users\nicop\Downloads\Music"
 
